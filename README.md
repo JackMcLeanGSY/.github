@@ -28,9 +28,9 @@ Hi, I'm Jack McLean, a passionate developer with a keen interest in aviation and
 
 ## 🚀 Projects
 
-### [Project 1 Name](project-link)
-![Project 1](project-image-link)
-Description of Project 1.
+### [TotalAviation](https://discord.gg/FqWtR9YJhm)
+![TotalAviation](https://cdn.discordapp.com/avatars/465990747234238474/1f7378d842f96e332f2652634ebb2de1.webp?size=128)
+Aviation content creator
 
 
 
