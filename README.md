@@ -12,7 +12,7 @@ Hi, I'm Jack McLean, a passionate developer with a keen interest in aviation and
 
 ## 🌐 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](your-discord-link) 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FqWtR9YJhm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link) 
 
 ## 🛠️ Tools and Technologies
@@ -32,33 +32,16 @@ Hi, I'm Jack McLean, a passionate developer with a keen interest in aviation and
 ![Project 1](project-image-link)
 Description of Project 1.
 
-### [Project 2 Name](project-link)
-![Project 2](project-image-link)
-Description of Project 2.
 
-### [Project 3 Name](project-link)
-![Project 3](project-image-link)
-Description of Project 3.
-
-## 📝 Blog Posts
-
-- [Blog Post 1 Title](blog-post-link)
-- [Blog Post 2 Title](blog-post-link)
-- [Blog Post 3 Title](blog-post-link)
 
 ## 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMcLeanGSY&layout=compact&theme=radical)
 
-## 🎯 Goals
-
-- Goal 1: Description of Goal 1.
-- Goal 2: Description of Goal 2.
-- Goal 3: Description of Goal 3.
 
 ## 📫 How to reach me
 
 - **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
-- **Discord:** your-discord-username
+- **Discord:** totalaviation
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or collaboration ideas.
